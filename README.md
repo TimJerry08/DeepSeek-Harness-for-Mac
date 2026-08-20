@@ -88,7 +88,6 @@ It is not open‑source; you are granted a limited license to use the provided b
 ## Feedback & Support
 
 - For bug reports or feature suggestions, please [open an Issue](https://github.com/your-username/your-repo/issues).
-- For general questions, you can reach out via [Twitter / other contact method] (optional).
 
 ---
 
