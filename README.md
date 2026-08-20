@@ -33,7 +33,6 @@ It turns the command‑line experience into a **double‑clickable desktop appli
 ## System Requirements
 
 - **Apple Silicon Mac** (M1, M2, M3, or M4) – Intel Macs are **not** supported in this release.
-- macOS 13.0 (Ventura) or later.
 
 ---
 
