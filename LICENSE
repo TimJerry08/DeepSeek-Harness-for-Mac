@@ -1,0 +1,35 @@
+Copyright © 2026 Timothy-Wang. All rights reserved.
+
+This software (the "Wrapper") is provided as a compiled binary distribution only.
+You are granted a limited, non-exclusive, non-transferable, revocable license to
+download, install, and use the Wrapper for personal or commercial purposes on
+your own Apple Silicon macOS computer, subject to the following conditions:
+
+1. You may NOT modify, adapt, translate, reverse engineer, decompile, or
+   disassemble the Wrapper or any part thereof.
+
+2. You may NOT redistribute, sublicense, rent, lease, lend, or sell the Wrapper
+   in whole or in part, whether in original or modified form, to any third party.
+
+3. You may NOT remove, alter, or obscure any copyright, trademark, or other
+   proprietary notices contained in or on the Wrapper.
+
+4. The Wrapper is provided "AS IS", without warranty of any kind, express or
+   implied, including but not limited to the warranties of merchantability,
+   fitness for a particular purpose, and noninfringement. In no event shall the
+   copyright holder be liable for any claim, damages, or other liability arising
+   from, out of, or in connection with the Wrapper or the use or other dealings
+   in the Wrapper.
+
+5. This license is effective until terminated. It will terminate automatically
+   if you fail to comply with any of its terms. Upon termination, you must cease
+   all use of the Wrapper and destroy all copies in your possession.
+
+6. The Wrapper includes third-party components, namely:
+   - DeepSeek Harness (dsh), which is licensed under the MIT License.
+   - Node.js, which is licensed under the MIT License.
+   These components are governed by their own respective licenses and are not
+   covered by this license. Their license notices are included within the
+   distributed binary package.
+
+For any questions regarding this license, please contact the copyright holder.
