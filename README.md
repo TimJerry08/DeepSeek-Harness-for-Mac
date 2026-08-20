@@ -1,7 +1,7 @@
 # DeepSeek Harness for macOS
 
 > **Truly open‑box‑ready**: download, double‑click, and you’re in.  
-> No terminal, no Node.js, no browser tabs – just a native macOS app.
+> No terminal, no browser tabs – just a native macOS app.
 
 [![Platform](https://img.shields.io/badge/Platform-macOS-1E90FF?style=flat&logo=apple)](https://www.apple.com/macos/)
 [![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-M1%2F2%2F3%2F4-333333?style=flat&logo=apple)](https://www.apple.com/mac/)
