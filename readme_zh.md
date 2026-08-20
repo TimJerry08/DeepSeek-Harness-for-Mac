@@ -89,7 +89,6 @@
 ## 反馈与支持
 
 - 如有 Bug 报告或功能建议，请 [提交 Issue](https://github.com/TimJerry08/DeepSeek-Harness-for-Mac/issues)。
-- 如有一般性问题，可通过 [Twitter / 其他联系方式] 联系（可选）。
 
 ---
 
